@@ -18,6 +18,8 @@ I have included an image of the key stats for June and December temperatures.  F
 
 After comparing June and December temperatures for Oahu, I think that a surf and ice cream shop would do well year-round.  The average temperature is within 4° of each other and the standard deviation for both for June and December are in the same range which tells me that the temperature is typically within the low to mid seventies.
 
-As mentioned, I calculated the stats for the precipitation data for June and December.  In the image below, you can see that the max precipitation happened in December but the average for June and December is .14 and .22 respectively which would not affect the surf and ice cream shop!     
+As mentioned, I calculated the stats for the precipitation data for June and December.  In the image below, you can see that the max precipitation happened in December but the average for June and December is .14 and .22 respectively which would not affect the surf and ice cream shop!
+
+Looking forward to visiting the surf and ice cream shop soon.  Good luck!
 
 ![](/Precipitation_Image.png)
