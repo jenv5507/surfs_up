@@ -1,10 +1,10 @@
 # Surfs up analysis
 
-# Overview of the analysis:
+# Overview of the analysis
 
 The purpose of this analysis was to look at temperature data for the months of June and December in Oahu to determine of a surf and ice cream shop is sustainable year-round in Oahu, Hawaii.  In addition, I also looked at the precipitation levels for June and December in Oahu.  This analysis will help W. Avy make a decision to either move forward with the business or move on to the next idea.
 
-# Results:
+# Results
 
 I have included an image of the key stats for June and December temperatures.  Following are three of the key differences I noticed when comparing the temperature for June and December.
 
@@ -14,4 +14,4 @@ I have included an image of the key stats for June and December temperatures.  F
 
 ![](/Temperature_Image.png)
 
-# Summary:
+# Summary
