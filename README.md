@@ -2,7 +2,7 @@
 
 # Overview of the analysis
 
-The purpose of this analysis was to look at temperature data for the months of June and December in Oahu to determine of a surf and ice cream shop is sustainable year-round in Oahu, Hawaii.  In addition, I also looked at the precipitation levels for June and December in Oahu.  This analysis will help W. Avy make a decision to either move forward with the business or move on to the next idea.
+The purpose of this analysis was to look at temperature data for the months of June and December in Oahu to determine if a surf and ice cream shop is sustainable year-round in Oahu, Hawaii.  In addition, I also looked at the precipitation levels for June and December in Oahu.  This analysis will help W. Avy make a decision to either move forward with the business or move on to the next idea.
 
 # Results
 
@@ -17,5 +17,7 @@ I have included an image of the key stats for June and December temperatures.  F
 # Summary
 
 After comparing June and December temperatures for Oahu, I think that a surf and ice cream shop would do well year-round.  The average temperature is within 4° of each other and the standard deviation for both for June and December are in the same range which tells me that the average temperature is within the low to mid seventies.
+
+As mentioned, I calculated the stats for the precipitation data for June and December.  In the image below, you can see that the max precipitation happened in December but the average for June and December is .14 and .22 respectively which would not affect the surf and ice cream shop!     
 
 ![](/Precipitation_Image.png)
