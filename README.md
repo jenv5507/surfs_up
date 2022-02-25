@@ -15,3 +15,7 @@ I have included an image of the key stats for June and December temperatures.  F
 ![](/Temperature_Image.png)
 
 # Summary
+
+After comparing June and December temperatures for Oahu, I think that a surf and ice cream shop would do well year-round.  The average temperature is within 4° of each other and the standard deviation for both for June and December are in the same range which tells me that the average temperature is within the low to mid seventies.
+
+![](/Precipitation_Image.png)
